@@ -1,4 +1,4 @@
-public class StudyJava {
+public class Reading {
 
 public static void main(String[]args){
     Book book = new Book();
