@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21ab126-fab9-462a-a1b4-ecd60f64876d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/HairColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KeywordsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mira.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Mira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mira.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mira.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,43 +23,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Mira.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Reading.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/KeywordsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="1838">
+              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#2351#2352#0" expanded="true" />
+                <element signature="e#2409#2410#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -74,11 +62,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/StudyJava.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Reading.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Book.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HairColor.java" />
         <option value="$PROJECT_DIR$/src/test/java/Human.java" />
         <option value="$PROJECT_DIR$/src/test/java/Mira.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StudyJava.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Book.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Reading.java" />
+        <option value="$PROJECT_DIR$/src/test/java/KeywordsTest.java" />
       </list>
     </option>
   </component>
@@ -90,7 +80,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -101,8 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,10 +120,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606982994449" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607809832497" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../petstoreapi40520" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -154,26 +144,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Mira" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mira" />
+  <component name="RunManager" selected="TestNG.KeywordsTest.tes3">
+    <configuration name="KeywordsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reading" />
-      <module name="Lessons" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mira.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeywordsTest.getPlanetAtmosphere" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Lessons" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Mira" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
+      <option name="METHOD_NAME" value="getPlanetAtmosphere" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeywordsTest.planet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lessons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
+      <option name="METHOD_NAME" value="planet" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeywordsTest.tes2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lessons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
+      <option name="METHOD_NAME" value="tes2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeywordsTest.tes3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lessons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
+      <option name="METHOD_NAME" value="tes3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -183,9 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reading" />
-        <item itemvalue="TestNG.Mira.test" />
-        <item itemvalue="Application.Mira" />
+        <item itemvalue="TestNG.KeywordsTest.tes3" />
+        <item itemvalue="TestNG.KeywordsTest.tes2" />
+        <item itemvalue="TestNG.KeywordsTest.planet" />
+        <item itemvalue="TestNG.KeywordsTest.getPlanetAtmosphere" />
+        <item itemvalue="Application.KeywordsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -207,28 +228,53 @@
       <option name="project" value="LOCAL" />
       <updated>1606982913270</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework. Changes have been made 2.">
+      <created>1606983013596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606983013596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Mira_test - 2020.11.30 at 17h 05m 25s.xml">
-      <configuration name="Mira.test" configurationId="TestNG" />
+    <history-entry file="KeywordsTest_test - 2020.12.12 at 21h 41m 12s.xml">
+      <configuration name="KeywordsTest.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Mira_test - 2020.11.30 at 17h 05m 50s.xml">
-      <configuration name="Mira.test" configurationId="TestNG" />
+    <history-entry file="KeywordsTest_getPlanetAtmosphere - 2020.12.12 at 22h 03m 48s.xml">
+      <configuration name="KeywordsTest.getPlanetAtmosphere" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Mira_test - 2020.12.02 at 22h 08m 23s.xml">
-      <configuration name="Mira.test" configurationId="TestNG" />
+    <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 09m 27s.xml">
+      <configuration name="KeywordsTest.planet" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Mira_test - 2020.12.02 at 22h 08m 30s.xml">
-      <configuration name="Mira.test" configurationId="TestNG" />
+    <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 20m 13s.xml">
+      <configuration name="KeywordsTest.planet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 22m 20s.xml">
+      <configuration name="KeywordsTest.planet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 52m 17s.xml">
+      <configuration name="KeywordsTest.planet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes2 - 2020.12.12 at 23h 16m 26s.xml">
+      <configuration name="KeywordsTest.tes2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes2 - 2020.12.12 at 23h 16m 31s.xml">
+      <configuration name="KeywordsTest.tes2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes2 - 2020.12.12 at 23h 18m 56s.xml">
+      <configuration name="KeywordsTest.tes2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes3 - 2020.12.12 at 23h 21m 48s.xml">
+      <configuration name="KeywordsTest.tes3" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2228145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -237,7 +283,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04111111" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13222222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,7 +332,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework. Changes have been made." />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework. Changes have been made." />
+    <MESSAGE value="Homework. Changes have been made 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework. Changes have been made 2." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -296,32 +343,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HairColor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Mira.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -329,6 +361,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mira.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/KeywordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1838">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#2351#2352#0" expanded="true" />
+            <element signature="e#2409#2410#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
