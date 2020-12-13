@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a21ab126-fab9-462a-a1b4-ecd60f64876d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HairColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KeywordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExamplesOfConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UsingKeywords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Mira.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Mira.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Mira.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mira.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KeywordsTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,23 +21,28 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Human.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/UsingKeywords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/KeywordsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExamplesOfConstructors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1838">
-              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1035#1036#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#2351#2352#0" expanded="true" />
-                <element signature="e#2409#2410#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="595">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -69,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Human.java" />
         <option value="$PROJECT_DIR$/src/test/java/Mira.java" />
         <option value="$PROJECT_DIR$/src/test/java/KeywordsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ExamplesOfConstructors.java" />
       </list>
     </option>
   </component>
@@ -91,6 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,16 +125,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607809832497" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607899142242" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../petstoreapi40520" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
@@ -144,19 +148,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.KeywordsTest.tes3">
-    <configuration name="KeywordsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
+  <component name="RunManager" selected="Application.ExamplesOfConstructors">
+    <configuration name="ExamplesOfConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamplesOfConstructors" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeywordsTest.getPlanetAtmosphere" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UsingKeywords.tes1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Lessons" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
-      <option name="METHOD_NAME" value="getPlanetAtmosphere" />
+      <option name="MAIN_CLASS_NAME" value="UsingKeywords" />
+      <option name="METHOD_NAME" value="tes1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -164,11 +168,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeywordsTest.planet" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UsingKeywords.tes4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Lessons" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
-      <option name="METHOD_NAME" value="planet" />
+      <option name="MAIN_CLASS_NAME" value="UsingKeywords" />
+      <option name="METHOD_NAME" value="tes4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -176,11 +180,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeywordsTest.tes2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UsingKeywords.tes5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Lessons" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
-      <option name="METHOD_NAME" value="tes2" />
+      <option name="MAIN_CLASS_NAME" value="UsingKeywords" />
+      <option name="METHOD_NAME" value="tes5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -188,11 +192,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeywordsTest.tes3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UsingKeywords.tes6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Lessons" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KeywordsTest" />
-      <option name="METHOD_NAME" value="tes3" />
+      <option name="MAIN_CLASS_NAME" value="UsingKeywords" />
+      <option name="METHOD_NAME" value="tes6" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -202,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.KeywordsTest.tes3" />
-        <item itemvalue="TestNG.KeywordsTest.tes2" />
-        <item itemvalue="TestNG.KeywordsTest.planet" />
-        <item itemvalue="TestNG.KeywordsTest.getPlanetAtmosphere" />
-        <item itemvalue="Application.KeywordsTest" />
+        <item itemvalue="Application.ExamplesOfConstructors" />
+        <item itemvalue="TestNG.UsingKeywords.tes6" />
+        <item itemvalue="TestNG.UsingKeywords.tes1" />
+        <item itemvalue="TestNG.UsingKeywords.tes5" />
+        <item itemvalue="TestNG.UsingKeywords.tes4" />
       </list>
     </recent_temporary>
   </component>
@@ -239,18 +243,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KeywordsTest_test - 2020.12.12 at 21h 41m 12s.xml">
-      <configuration name="KeywordsTest.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KeywordsTest_getPlanetAtmosphere - 2020.12.12 at 22h 03m 48s.xml">
-      <configuration name="KeywordsTest.getPlanetAtmosphere" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 09m 27s.xml">
-      <configuration name="KeywordsTest.planet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 20m 13s.xml">
-      <configuration name="KeywordsTest.planet" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="KeywordsTest_planet - 2020.12.12 at 22h 22m 20s.xml">
       <configuration name="KeywordsTest.planet" configurationId="TestNG" />
     </history-entry>
@@ -269,12 +261,24 @@
     <history-entry file="KeywordsTest_tes3 - 2020.12.12 at 23h 21m 48s.xml">
       <configuration name="KeywordsTest.tes3" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="KeywordsTest_tes4 - 2020.12.13 at 17h 39m 31s.xml">
+      <configuration name="KeywordsTest.tes4" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes5 - 2020.12.13 at 17h 56m 02s.xml">
+      <configuration name="KeywordsTest.tes5" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes1 - 2020.12.13 at 18h 14m 43s.xml">
+      <configuration name="KeywordsTest.tes1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="KeywordsTest_tes6 - 2020.12.13 at 18h 27m 40s.xml">
+      <configuration name="KeywordsTest.tes6" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2228145" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22707888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +287,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13222222" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04777778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,13 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Mira.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -378,17 +375,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/KeywordsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1838">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UsingKeywords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1035#1036#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#2351#2352#0" expanded="true" />
-            <element signature="e#2409#2410#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExamplesOfConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
