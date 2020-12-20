@@ -15,6 +15,7 @@ public class ExamplesOfConstructors {
         this.model = model;
         this.maxSpeed = maxSpeed;
     }
+
     /*
     перевод дословно -"model для этой машины (которую мы сейчас создаем) = аргументу model, который указан в конструкторе.
  maxSpeed для этой машины (которую мы создаем) = аргументу maxSpeed, который указан в конструкторе."

@@ -1,10 +1,10 @@
 import org.testng.annotations.Test;
 
-public class Mira extends Human{
+public class Mira {
 
     final String name = "Tolik";
 
-    Human human = new Human();
+    Human human = new Human(30);
 
 
 
@@ -20,7 +20,7 @@ public class Mira extends Human{
     }
 
     public static void main(String[]args) throws Exception {
-        Human human = new Human();
+        Human human = new Human("Mira", 30 , true);
         human.test("Jora");
         
 
@@ -50,8 +50,7 @@ public class Mira extends Human{
 
 
 
-
-        }
+}
 
 
 

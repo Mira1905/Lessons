@@ -229,4 +229,15 @@ implements - для реализации в классе интерфейса
         System.out.println(I);
 
     }
+
+
+    @Test
+    public static void Dima(String[] args) {
+        String [] wishes = {" Любови ", " Денег ", " Здоровья ", " Путешествий "};
+        System.out.print("Вася, желаем тебе ");
+        for (int i = 0; i < 7; i++) {
+            System.out.print(wishes[(int)(wishes.length * Math.random())]);
+        }
+        System.out.print("!!!!!");
+    }
 }

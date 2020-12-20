@@ -1,5 +1,5 @@
 public  class Human {
-   public String name;
+    public String name;
     public int age;
     public boolean alive;
     public static final String SEX = "female";
@@ -13,8 +13,33 @@ public  class Human {
 
    }
 
+   public void writeName(String name2){
+     System.out.println();
+}
+
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
     public void test(String name2)  throws Exception{
         System.out.println(name2);
+
+
+
 
 
 
@@ -33,4 +58,20 @@ try {
 
 
     }
+
+
+    public Human(String name, int age, boolean alive) {
+        this.name = name;
+        this.age = age;
+        this.alive = alive;
+    }
+
+    public Human(int age) {
+        this.age = age;
+    }
+
+    public Human(){
+
+    }
 }
+
